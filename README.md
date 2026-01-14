@@ -7,4 +7,4 @@ BusGovernor is a program-dependent bus stabiliser designed to govern dynamics ra
 Controls:<br>
 Drive - Boost Input.<br>
 Pressure - Effect Boost.<br>
-Makeup - Voume and Density.
+Makeup - renamed to Voume.
